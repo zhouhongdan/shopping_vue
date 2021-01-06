@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "animate.css": "^3.7.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "html2canvas": "^1.0.0-alpha.12",
     "imagesloaded": "^4.1.4",
     "jquery": "^3.5.1",
