@@ -17,7 +17,7 @@
     "jquery": "^3.5.1",
     "jquery-bridget": "^2.0.1",
     "masonry-layout": "^4.2.2",
-    "swiper": "^5.2.0",
+    "swiper": "^6.5.1",
     "vue": "^2.5.2",
     "vue-awesome-swiper": "^4.1.1",
     "vue-masonry": "^0.11.8",
